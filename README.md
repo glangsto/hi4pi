@@ -11,10 +11,9 @@ HI4PI: A full-sky HI survey based on EBHIS and GASS
 
 These notebooks use an image from the HI4PI collaboration that can be downloaded.   
 
-1. HI4PI-WGET - First download the
-image.   
+1. HI4PI-WGET - First download the image.  Note where the file is located.   
 2. HI4PI-UPGRADE - Optionally you may need to install/upgrade some Astropy code.  
-3. HI4PI-READ - First just read and display the data.  
+3. HI4PI-READ - Just read and display the data.  
 4. HI4PI-Smooth - Read the data and start processsing the observations.  First we
 smooth the image to more closely match observations with horn Radio Telescopes.
 
