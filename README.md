@@ -11,7 +11,7 @@ HI4PI: A full-sky HI survey based on EBHIS and GASS
 
 These notebooks use an image from the HI4PI collaboration that can be downloaded.  
 These low angular resolution images were kindly provided by Dr. Benjamin Winkel
-of the Max Planck Insitute for Radio Astronomy.   Two image cubs were provided:
+of the Max Planck Insitute for Radio Astronomy.   Two image cubes were provided:
 
 File: hi4pi_1.5deg.fits
 * Galactic Coordinates
@@ -26,7 +26,7 @@ File: langston_eq.fits
 wget ftp://ftp.mpifr-bonn.mpg.de/outgoing/bwinkel/langston_eq.fits
 
 ## Noteooks
-1. HI4PI-WGET - First download the image.  Note where the file is located.   
+1. HI4PI-WGET - First download the image.  Note which directory the file is placed.   
 2. HI4PI-UPGRADE - Optionally you may need to install/upgrade some Astropy code.  
 3. HI4PI-READ - Get and display the galactic coordinate the data.  
 4. HI4PI-READ-Equitorial
